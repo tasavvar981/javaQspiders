@@ -2,6 +2,7 @@ class NoOfDaysInMonth
 {
 public static void main(String args[])
 {
+
   int n=7;
   if(n==1)
   System.out.println("January= 31 days");
